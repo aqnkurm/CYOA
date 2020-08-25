@@ -1,0 +1,398 @@
+body{
+    background-color: black;
+}
+.main{
+    margin-top: 300px;
+    width: 100%;
+    padding: 130px 0px;
+    background-image: url(Quest_Time.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 90%;
+}
+img{
+    width:100%;
+    
+}
+.page_london{
+    width: 100%;
+}
+h1{
+    color:azure;
+    text-align: center;
+    font-family: "futura pt book";
+    font-size: 101px;
+    margin-top: 0px:
+}
+h2{
+    color:azure;
+    font-family: "futura pt book";
+    text-align: center;
+    font-size: 24px;
+    margin-top:0px;
+}
+h4{
+    color:black;
+    font-family: "futura pt book";
+    font-size: 44px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+h3{
+    color:azure;
+    font-family: "futura pt book";
+    font-size: 44px;
+    margin-left:100px;
+    margin-right: 100px;
+    margin-bottom:0px;
+    margin-top: 0px;
+}
+a:link{
+    color:azure;
+    text-decoration: none;
+}
+a:visited{
+    color:azure;
+}
+a:hover{
+    color:azure;
+}
+a:active{
+    color:dimgrey;
+}
+.page_1{
+    width: 100%;
+    padding: 130px 0px;
+    margin-top: 300px;
+}
+.button{
+    width: 15%;
+    height:60px;
+    background-color:white;
+    margin-top:-60px;
+    margin-bottom: 0px;
+    margin-left: 64%;
+    margin-right: 100%;
+    border-radius: 15px;
+    text-align: center;
+}
+.button a:link{
+    color:black;
+}
+.button a:visited{
+    color:black;
+}
+.button a:hover{
+    color: burlywood;
+}
+.button a:active{
+    color:black;
+}
+.button_2:hover{
+    background-image: url(people-on-pedestrian-lane-2300342.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+}
+.button:hover{
+    background-image:url(person-crossing-the-street-1119114.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+
+}
+.button_3:hover{
+    background-image:url(architecture-booth-buildings-bus-374815.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+.button_4:hover{
+    background-image:url(gray-suspension-bridge-during-night-time-236510.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.button_2{
+    width: 15%;
+    height: 60px;
+    background-color:white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 5%;
+    margin-right: 100%;
+    border-radius: 15px;
+    text-align: center;
+}
+.button_2 a:link{
+    color:black;
+}
+.button_2 a:visited{
+    color:black;
+}
+.button_2 a:hover{
+    color:orangered;
+}
+.button_2 a:active{
+    color:black;
+}
+.button_3{
+    width: 15%;
+    height: 60px;
+    background-color:white;
+    margin-top: -60px;
+    margin-bottom: 0px;
+    margin-left: 24%;
+    margin-right: 100%;
+    border-radius: 15px;
+    text-align: center;
+}
+.button_3 a:link{
+    color:black;
+}
+.button_3 a:visited{
+    color:black;
+}
+.button_3 a:hover{
+    color: coral;
+}
+.button_3 a:active{
+    color:black;
+}
+.button_4{
+    width: 15%;
+    height: 60px;
+    background-color:white;
+    margin-top: -60px;
+    margin-bottom: 0px;
+    margin-left: 44%;
+    margin-right: 100%;
+    border-radius: 15px;
+    text-align: center;
+}
+.button_4 a:link{
+    color:black;
+}
+.button_4 a:visited{
+    color:black;
+}
+.button_4 a:hover{
+    color: darkturquoise;
+}
+.button_4 a:active{
+    color:black;
+}
+.button_5{
+    width: 15%;
+    height: 60px;
+    background-color:white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: auto;
+    margin-right: 100px;
+    border-radius: 15px;
+    text-align: center;
+}
+.button_5 a:link{
+    color:black;
+}
+.button_5 a:visited{
+    color:black;
+}
+.button_5 a:hover{
+    color:black;
+}
+.button_5 a:active{
+    color:black;
+}
+.button_6{
+    width: 15%;
+    height: 60px;
+    background-color:white;
+    margin-top: -50px;
+    margin-bottom: 0px;
+    margin-left: auto;
+    margin-right: 100px;
+    border-radius: 15px;
+    text-align: center;
+}
+.button_6 a:link{
+    color:black;
+}
+.button_6 a:visited{
+    color:black;
+}
+.button_6 a:hover{
+    color:black;
+}
+.button_6 a:active{
+    color:black;
+}
+.button_7{
+    width: 15%;
+    height: 60px;
+    background-color:white;
+    margin-top: -60px;
+    margin-bottom: 0px;
+    margin-left: 37%;
+    margin-right: 100%;
+    border-radius: 15px;
+    text-align: center;
+}
+.button_7 a:link{
+    color:black;
+}
+.button_7 a:visited{
+    color:black;
+}
+.button_7 a:hover{
+    color: darkturquoise;
+}
+.button_7 a:active{
+    color:black;
+}
+.button_8{
+    width: 15%;
+    height: 60px;
+    background-color:white;
+    margin-top: -60px;
+    margin-bottom: 0px;
+    margin-left: 5%;
+    margin-right: 100%;
+    border-radius: 15px;
+    text-align: center;
+}
+.button_8 a:link{
+    color:black;
+}
+.button_8 a:visited{
+    color:black;
+}
+.button_8 a:hover{
+    color: darkturquoise;
+}
+.button_8 a:active{
+    color:black;
+}
+.button_9{
+    width: 15%;
+    height: 60px;
+    background-color:white;
+    margin-top: -60px;
+    margin-bottom: 0px;
+    margin-left: 21%;
+    margin-right: 100%;
+    border-radius: 15px;
+    text-align: center;
+}
+.button_9 a:link{
+    color:black;
+}
+.button_9 a:visited{
+    color:black;
+}
+.button_9 a:hover{
+    color: darkturquoise;
+}
+.button_9 a:active{
+    color:black;
+}
+.button_10{
+    width: 15%;
+    height: 60px;
+    background-color:white;
+    margin-bottom: 0px;
+    margin-left: 53%;
+    margin-right: 100%;
+    border-radius: 15px;
+    text-align: center;
+}
+.button_10 a:link{
+    color:black;
+}
+.button_10 a:visited{
+    color:black;
+}
+.button_10 a:hover{
+    color: darkturquoise;
+}
+.button_10 a:active{
+    color:black;
+}
+.button_start_over{
+    width: 15%;
+    height: 60px;
+    background-color:white;
+    margin-bottom: 0px;
+    margin-left: 85%;
+    margin-right: 100%;
+    border-radius: 15px;
+    text-align: center;
+}
+.button_start_over a:link{
+    color:black;
+}
+.button_start_over a:visited{
+    color:black;
+}
+.button_start_over a:hover{
+    color: black;
+}
+.button_start_over a:active{
+    color:black;
+}
+.left{
+    width:50%;
+    float:left;
+}
+.right{
+    width:50%;
+    float:left;
+}
+.button_11{
+    width: 15%;
+    height: 60px;
+    background-color:white;
+    margin-bottom: 0px;
+    margin-left: 20%;
+    margin-right: 100%;
+    border-radius: 15px;
+    text-align: center;
+}
+.button_11 a:link{
+    color:black;
+}
+.button_11 a:visited{
+    color:black;
+}
+.button_11 a:hover{
+    color: darkturquoise;
+}
+.button_11 a:active{
+    color:black;
+}
+.button_12{
+    width: 15%;
+    height: 60px;
+    background-color:white;
+    margin-bottom: 0px;
+    margin-left: 70%;
+    margin-right: 100%;
+    margin-top: -60px;
+    border-radius: 15px;
+    text-align: center;
+}
+.button_12 a:link{
+    color:black;
+}
+.button_12 a:visited{
+    color:black;
+}
+.button_12 a:hover{
+    color: darkturquoise;
+}
+.button_12 a:active{
+    color:black;
+}
